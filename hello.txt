@@ -8,3 +8,4 @@ Add hot-fix  --
 Add master 11111122222
 Add hot-fix 1111122222
 github add
+git clone demo
